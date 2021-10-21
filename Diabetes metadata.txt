@@ -1,0 +1,20 @@
+Meta data for Diabetes Dataset
+
+Outcome:-Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
+Age:-Age (years)
+
+DiabetesPedigreeFunction:- Diabetes pedigree function (a function which scores likelihood of diabetes based on family history) Age: Age (years) Outcome: Class variable (1< if non-diabetic, >1 if diabetic)
+
+BMI:-Body mass index (weight in kg/(height in m)^2)
+
+Insulin:-2-Hour serum insulin (mu U/ml)
+
+SkinThickness:-Triceps skin fold thickness (mm)
+
+Pregnancies:-Number of times pregnant
+
+Glucose:-Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+
+BloodPressure:-Diastolic blood pressure (mm Hg)
+
