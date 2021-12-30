@@ -22,3 +22,6 @@ ACCURACY --> 91.26%
 ACCURACY --> 87.2%
 1) https://www.analyticsvidhya.com/blog/2016/01/xgboost-algorithm-easy-steps/
 2) https://www.rdocumentation.org/packages/sparkxgb/versions/0.1.1/topics/xgboost_classifier
+
+**Plots:-**
+![image](https://user-images.githubusercontent.com/83348948/137622320-ea941b46-0953-449e-871a-2a36e5776b2c.png)
