@@ -24,6 +24,7 @@ ACCURACY --> 87.2%
 2) https://www.rdocumentation.org/packages/sparkxgb/versions/0.1.1/topics/xgboost_classifier
 
 **Plots:-**
+
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/BMI%20vs%20Age.png)
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Glucose%20vs%20Age.png)
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Box_Plot%20for%20Outcome%20and%20BMI.png)
