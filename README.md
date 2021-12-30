@@ -29,3 +29,4 @@ ACCURACY --> 87.2%
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Glucose%20vs%20Age.png)
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Box_Plot%20for%20Outcome%20and%20BMI.png)
 ![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/box_plot%20for%20Outcome%20and%20Glucose.png)
+![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/WhatsApp%20Image%202021-12-30%20at%201.24.01%20PM.jpeg)
