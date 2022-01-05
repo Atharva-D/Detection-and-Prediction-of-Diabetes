@@ -3,7 +3,7 @@
 ## References:
 
 **KNN:-**
-ACCURACY -->76.67%
+ACCURACY -->75%
 1) https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/kNN
 2) https://www.analyticsvidhya.com/blog/2015/08/learning-concept-knn-algorithms-programming/
 
