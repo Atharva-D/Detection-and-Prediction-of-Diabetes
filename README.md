@@ -13,7 +13,7 @@ ACCURACY --> 82.38%
 2) https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-r/
 
 **Random Forest:-**
-ACCURACY --> 90.71%
+ACCURACY --> 95.57%
 1) https://www.rdocumentation.org/packages/randomForest/versions/4.6-14/topics/randomForest
 2) https://towardsdatascience.com/random-forest-in-r-f66adf80ec9
 3) https://www.geeksforgeeks.org/random-forest-approach-in-r-programming/#:~:text=Random%20Forest%20in%20R%20Programming,when%20employed%20on%20its%20own.
