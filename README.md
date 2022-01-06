@@ -19,7 +19,7 @@ ACCURACY --> 90.71%
 3) https://www.geeksforgeeks.org/random-forest-approach-in-r-programming/#:~:text=Random%20Forest%20in%20R%20Programming,when%20employed%20on%20its%20own.
 
 **XGBoost:-**
-ACCURACY --> 82.06%
+ACCURACY --> 82.46%
 1) https://www.analyticsvidhya.com/blog/2016/01/xgboost-algorithm-easy-steps/
 2) https://www.rdocumentation.org/packages/sparkxgb/versions/0.1.1/topics/xgboost_classifier
 
